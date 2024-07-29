@@ -14,9 +14,8 @@
         }
     ],
     "require": {
-        "illuminate/cache": "~6.0 || ~7.0 || ~8.0 || ~9.0|^10.0",
-        "guzzlehttp/guzzle": "~5.3 || ~6.0 || ~7.0",
-        "nesbot/carbon": "1.* || 2.*"
+        "guzzlehttp/guzzle": "*",
+        "nesbot/carbon": "*"
     },
     "autoload": {
         "psr-4": {
